@@ -1,9 +1,9 @@
-# Vagrant project 0x00
+# New Readme File
 
-## My First Project
+## My Task 1
 
-My project is a practical exercise created in order to learning how you can use git and how useful is it
-So you can interact with github by graphical interface 
+My project is a practical exercise created in order to learning how you can create a new directory and add a new README.md file to this directory
+
 
 ## Why this project is useful
 
