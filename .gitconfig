@@ -1,5 +1,7 @@
 [user]
-	name = Fabio Vasquez
+	name = quickcode20
 	email = 2021@holbertonschool.com
 [core]
 	editor = emacs
+[credential]
+	helper = cache --timeout=99999999
