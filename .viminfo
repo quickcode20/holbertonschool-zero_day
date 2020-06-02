@@ -21,20 +21,38 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
-	asdfasdfadfsadfasrrrrrfasasdfasdfasdf
+"0	LINE	0
+	yydfgbcddeggsessabcddeggseswrtwertwerts
+""1	LINE	0
+	
 "2	LINE	0
+	ydfgbcddeggsessabcddeggseswrtwertwerts
+"3	LINE	0
+	ydfgbcddeggsessabcddeggseswrtwertwerts
+"4	LINE	0
+	asdfasdfadfsadfasrrrrrfasasdfasdfasdf
+"5	LINE	0
 	asdfasdfdddi
-""-	CHAR	0
-	d
+"-	CHAR	0
+	y
 
 # File marks:
-'0  1  0  ~/0x02-vi/0-inserting
+'0  1  1  ~/0x02-vi/1-cutting
+'1  1  0  ~/0x02-vi/0-inserting
 
 # Jumplist (newest first):
+-'  1  1  ~/0x02-vi/1-cutting
+-'  1  0  ~/0x02-vi/0-inserting
 -'  1  0  ~/0x02-vi/0-inserting
 
 # History of marks within files (newest to oldest):
+
+> ~/0x02-vi/1-cutting
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	0
+	+	1	1
 
 > ~/0x02-vi/0-inserting
 	"	1	0
