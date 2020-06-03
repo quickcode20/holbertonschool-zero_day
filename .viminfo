@@ -38,18 +38,20 @@
 	!
 
 # File marks:
-'0  1  6  ~/0x01-emacs/0-opening
-'1  1  15  ~/0x03-git/up_to_date
-'2  3  34  ~/bash/holberton
-'3  3  25  ~/bash/school
-'4  4  0  ~/bash/holberton
-'5  24  0  ~/0x03-git/README.md
-'6  1  0  ~/0x02-vi/6-end_line
-'7  1  0  ~/0x02-vi/5-beginning_line
-'8  1  0  ~/0x02-vi/4-exiting
-'9  1  0  ~/0x02-vi/3-undoing
+'0  37  0  ~/0x02-vi/README.md
+'1  1  6  ~/0x01-emacs/0-opening
+'2  1  15  ~/0x03-git/up_to_date
+'3  3  34  ~/bash/holberton
+'4  3  25  ~/bash/school
+'5  4  0  ~/bash/holberton
+'6  24  0  ~/0x03-git/README.md
+'7  1  0  ~/0x02-vi/6-end_line
+'8  1  0  ~/0x02-vi/5-beginning_line
+'9  1  0  ~/0x02-vi/4-exiting
 
 # Jumplist (newest first):
+-'  37  0  ~/0x02-vi/README.md
+-'  1  0  ~/0x02-vi/README.md
 -'  1  6  ~/0x01-emacs/0-opening
 -'  1  15  ~/0x03-git/up_to_date
 -'  3  34  ~/bash/holberton
@@ -147,9 +149,14 @@
 -'  1  0  ~/0x02-vi/0-inserting
 -'  1  0  ~/0x02-vi/2-pasting
 -'  1  1  ~/0x02-vi/1-cutting
--'  1  0  ~/0x02-vi/0-inserting
 
 # History of marks within files (newest to oldest):
+
+> ~/0x02-vi/README.md
+	"	37	0
+	^	37	0
+	.	36	84
+	+	36	84
 
 > ~/0x01-emacs/0-opening
 	"	1	6
